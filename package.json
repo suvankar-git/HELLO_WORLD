@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "hello_world with Node.js",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suvankar-git/HELLO_WORLD.git"
+},
   "scripts": {
     "start": "nodemon index"
   },
