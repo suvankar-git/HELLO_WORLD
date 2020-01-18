@@ -1,4 +1,4 @@
-FROM node:10
+FROM alpine:latest
 WORKDIR /usr/src/app
 # Install app dependencies
 COPY package*.json ./
